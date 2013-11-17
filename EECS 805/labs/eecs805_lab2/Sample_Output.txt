@@ -1,0 +1,12 @@
+
+Allocating 128 byte aligned memory block
+----------------
+ORIGINAL PTR: [0x324260]
+128 BYTE ALIGNED PTR: [0x324280]
+ORIGINAL PTR: [0x324260] stored at [0x32427C]
+ALIGNED PTR: [0x324280]
+
+Deallocating the memory block
+----------------
+DEALLOC ORIGINAL PTR: [0x324260]...OK
+Press any key to continue . . .
